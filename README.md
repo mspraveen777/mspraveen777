@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer | AI & Full Stack Enthusiast</h3>
 
 <p align="center">
-  <a href="https://6a21b7bb90002b9a0b934845--m-s-praveen-portfolio.netlify.app/">🌐 Portfolio</a> •
+  <a href="https://m-s-praveen-portfolio.netlify.app/">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/mspraveen777">LinkedIn</a> •
   <a href="https://github.com/mspraveen777">GitHub</a>
 </p>
