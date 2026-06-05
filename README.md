@@ -17,7 +17,7 @@
 - 💻 Former **Front End Web Developer Intern @ Edunet Foundation**
 - 🌱 Currently learning **FastAPI, AWS, AI/ML, and Advanced Python**
 - 📫 Reach me at **mspraveen7777@gmail.com**
-- 🌐 Portfolio: **<a href="https://6a21b7bb90002b9a0b934845--m-s-praveen-portfolio.netlify.app/">Visit My Portfolio</a>**
+- 🌐 Portfolio: **<a href="https://m-s-praveen-portfolio.netlify.app/">Visit My Portfolio</a>**
 - 📄 Resume: **<a href="./resume.pdf">View Resume</a>**
 
 ---
