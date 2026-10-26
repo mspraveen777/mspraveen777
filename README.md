@@ -18,7 +18,7 @@
 - 🌱 Currently learning **FastAPI, AWS, AI/ML, and Advanced Python**
 - 📫 Reach me at **mspraveen7777@gmail.com**
 - 🌐 Portfolio: **<a href="https://m-s-praveen-portfolio.netlify.app/">Visit My Portfolio</a>**
-- 📄 Resume: **<a href="./Praveen_Muttappa_Sunagar.pdf">View Resume</a>**
+- 📄 Resume: <a href="./Praveen_Muttappa_Sunagar.pdf" target="_blank">View Resume</a>
 
 ---
 
